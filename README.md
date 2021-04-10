@@ -1,6 +1,6 @@
 # Item Remover V2
 
-![GitHub all releases](https://img.shields.io/github/downloads/Insulting-Pros/KFItemRemoverV2/total)
+![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/KFItemRemoverV2/total)
 
 Serverside mutator, allows to remove weapons from trader and player equipment.
 
